@@ -97,12 +97,6 @@
     <label for="telefon"><b>Telefonnummer</b></label>
     <input type="text" id="telefon" name="telefon">
 
-    <label for="stilling"><b>Hvilken stilling søker du?</b></label>
-    <input type="text" id="stilling" name="stilling" required>
-
-    <label for="soeknad"><b>Søknadstekst</b></label>
-    <textarea id="soeknad" name="soeknad" rows="8" required></textarea>
-
     <label for="cv"><b>Last opp CV</b></label>
     <input type="file" id="cv" name="cv" accept=".pdf,.doc,.docx" required>
 
@@ -110,9 +104,7 @@
 </form>
 
   </div>
-<a href="../visning/takk.php" class="w3-button w3-red" style="margin-top:20px;">
-      Tilbake til søknadsskjema
-    </a>
+
 </body>
 </html>
 

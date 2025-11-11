@@ -39,3 +39,4 @@ $stmt->execute([
 
 header('Location: ../visning/takk.php');
 exit;
+
