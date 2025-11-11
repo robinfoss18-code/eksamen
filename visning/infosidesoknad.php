@@ -98,19 +98,19 @@
     <div class="card">
       <h2>Innholdsprodusent</h2>
       <p>Er du kreativ og glad i å formidle budskap? Som innholdsprodusent hos oss vil du skape engasjerende innhold til nettsider og sosiale medier.</p>
-      <button onclick="location.href='stilling_innhold.php'">Les mer</button> <!-- Her må det komme lenke til stillingsbeskrivelse og selve søknaden! -->
+      <button onclick="location.href='innholdsprodusent.php'">Les mer</button> <!-- Her må det komme lenke til stillingsbeskrivelse og selve søknaden! -->
     </div>
 
     <div class="card">
       <h2>UiA-hjelp</h2>
       <p>UIA-hjelp er en studenttjeneste som tilbyr rask og enkel IT-hjelp. Vi hjelper deg med alt fra innlogging og utskrifter til programvare og tekniske problemer.</p>
-      <button onclick="location.href='stilling_uiahjelp.php'">Les mer</button> <!-- Her må det komme lenke til stillingsbeskrivelse og selve søknaden! -->
+      <button onclick="location.href='uiahjelp.php'">Les mer</button> <!-- Her må det komme lenke til stillingsbeskrivelse og selve søknaden! -->
     </div>
 
     <div class="card">
       <h2>Prosjektleder</h2>
       <p>Vi ser etter en strukturert og engasjert prosjektleder som trives med ansvar og samarbeid for positiv utvikling av universitetet.</p>
-      <button onclick="location.href='stilling_prosjektleder.php'">Les mer</button>
+      <button onclick="location.href='prosjektleder.php'">Les mer</button>
     </div>
   </main>
 

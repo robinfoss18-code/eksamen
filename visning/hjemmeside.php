@@ -61,7 +61,7 @@
 <!-- Navigasjonsbar (navbar) som forsvinner ved scroll -->
   <div class="w3-bar uai-red w3-large">
     <a href="#" class="w3-bar-item w3-button w3-hover-white"><b>UiA</b></a>  
-    <a href="#stillinger" class="w3-bar-item w3-button w3-hover-white">Ledige stillinger</a>
+    <a href="infosidesoknad.php" class="w3-bar-item w3-button w3-hover-white">Ledige stillinger</a>
     <a href="#admin" class="w3-bar-item w3-button w3-hover-white">Administrasjon</a>
   </div>
 
